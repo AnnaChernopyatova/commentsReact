@@ -1,0 +1,41 @@
+.comments{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 40vw;
+    height: 51vh;
+    margin: auto;
+    border: 3px solid rgb(50, 78, 172);
+}
+
+.comments_header{
+    background-color: rgb(50, 78, 172);
+    margin-top: 0%;
+    height: 5vh;
+    text-align: center;
+    padding-top: 1vh;
+    
+}
+
+.comments_space{
+    height: 27vh;
+    overflow: auto;
+    margin-bottom: 1vh;
+}
+
+.comments_form{
+    display: flex;
+    flex-direction: column;
+}
+
+.comments_input{
+    height: 8vh;
+    width: 38vw;
+    margin: auto;
+}
+
+.comments_button{
+    height: 4vh;
+    width: 31vw;
+    margin: auto;
+    margin-top: 1vh;
+    background-color: rgb(172, 150, 50);
+}

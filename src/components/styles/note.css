@@ -1,0 +1,46 @@
+.comments {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 40vw;
+  height: 51vh;
+  margin: auto;
+  border: 3px solid #324eac;
+}
+
+.comments_header {
+  background-color: #324eac;
+  margin-top: 0%;
+  height: 5vh;
+  text-align: center;
+  padding-top: 1vh;
+}
+
+.comments_space {
+  height: 27vh;
+  overflow: auto;
+  margin-bottom: 1vh;
+}
+
+.comments_form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.comments_input {
+  height: 8vh;
+  width: 38vw;
+  margin: auto;
+}
+
+.comments_button {
+  height: 4vh;
+  width: 31vw;
+  margin: auto;
+  margin-top: 1vh;
+  background-color: #ac9632;
+}
+/*# sourceMappingURL=note.css.map */
